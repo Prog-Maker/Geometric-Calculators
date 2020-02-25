@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Circle\GeomtricCalulators.csproj" />
+    <ProjectReference Include="..\GeomtricCalulators\GeomtricCalulators.csproj" />
   </ItemGroup>
 
 </Project>

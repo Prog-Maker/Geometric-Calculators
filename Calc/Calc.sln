@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc", "Calc.csproj", "{AD1086EC-6914-4BF3-B36F-1794DF9EFB60}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeomtricCalulators", "..\Circle\GeomtricCalulators.csproj", "{1FDD3927-AEF8-482A-8055-6120D66AE5A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeomtricCalulators", "..\GeomtricCalulators\GeomtricCalulators.csproj", "{1FDD3927-AEF8-482A-8055-6120D66AE5A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricCalculators.Tests", "..\GeometricCalculators.Tests\GeometricCalculators.Tests.csproj", "{759F47E5-DA07-4BF5-A672-002250AA1824}"
 EndProject
